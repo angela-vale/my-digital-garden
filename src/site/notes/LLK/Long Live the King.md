@@ -22,7 +22,7 @@ As the gods were creating the world together, a dispute emerged between the two 
 # [[Session Logs\|Session Logs]]
 
 
-This is the home page for my digital garden!
-
-A test to see how it works
+# Meta
+For anything out of character
+[[LLK/Safety\|Safety]]
 
