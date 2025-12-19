@@ -15,7 +15,7 @@
 
 *And yet, I shall not be here to see it, for I have been granted the honour of serving our King in the Afterlife. In mere days, I will take part in the ceremony. While I do not wish to die, what I dread most is telling our King that his sacrifice was for naught.*
 
-- *an excerpt from the journal of Sigrid Guthrundottir, Assistant to Court Wizard, Vilento* 
+- *an excerpt from the journal of Sigrid Guthrunsdottir, Assistant to Court Wizard, Vilento* 
 
 
 
@@ -40,6 +40,8 @@
 
 # The Party
 
+[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]]
+
 # [[Notable NPCs\|Notable NPCs]]
 
 
@@ -54,6 +56,6 @@
 
 # Meta
 For anything out of character
-[[LLK/Safety\|Safety]]]
+[[LLK/Safety\|Safety]]
 
 *Last updated: 2025/12/18*
