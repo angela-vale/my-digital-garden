@@ -5,27 +5,32 @@
 
 # The King is dead…
 
-*Our great King, [[LLK/Urion\|Urion]], who spent so many years on the throne, defeated so many enemies, and brought us peace is dead.
+*Our great King, [[LLK/Urion\|Urion]], who spent so many years on the throne, defeated so many enemies, and brought us peace is dead.*
 
-*Not of old age, nor illness, nor some mortal wound. He died because he tempted fate and tried to save his heir, [[Vanna\|Vanna]] by casting Resurrection. I still question why it was he who had to cast it. He has cast it previously four times, to save lives precious to him or the kingdom. 
+*Not of old age, nor illness, nor some mortal wound. He died because he tempted fate and tried to save his heir, [[Vanna\|Vanna]] by casting Resurrection. I still question why it was he who had to cast it. He has cast it previously four times, to save lives precious to him or the kingdom.* 
 
-*No mortal can cast Resurrection more than four times. Casting it takes a toll on the body, the soul, and to do more is deadly. Still, our glorious King knew that without his heir, his legacy was sure to crumble, so he chose to sacrifice himself for us one more time.
+*No mortal can cast Resurrection more than four times. Casting it takes a toll on the body, the soul, and to do more is deadly. Still, our glorious King knew that without his heir, his legacy was sure to crumble, so he chose to sacrifice himself for us one more time.*
 
-*Sadly, it failed. Vanna remains in the Underworld. Worse, when [[LLK/Tau\|Tau]], goddess of the Sun, came to claim his soul and escort him to the Afterlife, and has not returned yet. The sky is dark, we are leaderless, and, even now, I fear the panic is rising. Rovana may not last the coming crisis.
+*Sadly, it failed. Vanna remains in the Underworld. Worse, when [[LLK/Tau\|Tau]], goddess of the Sun, came to claim his soul and escort him to the Afterlife, and has not returned yet. The sky is dark, we are leaderless, and, even now, I fear the panic is rising. Rovana may not last the coming crisis.*
 
-*And yet, I shall not be here to see it, for I have been granted the honour of serving our King in the Afterlife. In mere days, I will take part in the ceremony. While I do not wish to die, what I dread most is telling our King that his sacrifice was for naught.
+*And yet, I shall not be here to see it, for I have been granted the honour of serving our King in the Afterlife. In mere days, I will take part in the ceremony. While I do not wish to die, what I dread most is telling our King that his sacrifice was for naught.*
 
-*- an excerpt from the journal of Sigrid Guthrundottir, Assistant to Court Wizard, Vilento 
+- *an excerpt from the journal of Sigrid Guthrundottir, Assistant to Court Wizard, Vilento* 
 
 
 
 # The World
+
+*Most people follow a nomadic or semi-nomadic lifestyle, in bands ranging from a dozen to a few hundred people. There are some city-states scattered around, usually built under the patronage of a god, although with the passing centuries most of those patronages have been neglected if not fully abandoned. 
+
+*And there is one young kingdom, forged through conquests and alliances by Urion. It encompasses the great city Rovana (Urion’s seat of power, under the patronage of Tau of course), smaller nearby cities and the regional bands.
+
 [[In the Beginning\|In the Beginning]]
 [[LLK/Gods\|Gods]]
 [[LLK/The Fey\|The Fey]]
 [[LLK/Feylands\|Feylands]]
 [[LLK/The Cheltrem volcano\|The Cheltrem volcano]]
-[[Fort Calagal\|Fort Calagal]]
+[[LLK/Fort Calagal\|Fort Calagal]]
 [[LLK/The underground\|The underground]]
 ## Race Info
 
