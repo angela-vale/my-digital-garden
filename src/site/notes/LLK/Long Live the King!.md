@@ -31,16 +31,27 @@
 [[LLK/Feylands\|Feylands]]
 [[LLK/The Cheltrem volcano\|The Cheltrem volcano]]
 [[LLK/Fort Calagal\|Fort Calagal]]
-[[LLK/The underground\|The underground]]
+[[LLK/The Underground\|The Underground]]
 ## Race Info
 
 
 ## Class info
 
+[[Paladin\|Paladin]]
+[[LLK/Sorcerer\|Sorcerer]]
+[[LLK/Wizard\|Wizard]]
+
 
 # The Party
 
 [[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]]
+[[LLK/Thallen\|Thallen]]
+[[LLK/Capella\|Capella]]
+[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]]
+
+
+
+
 
 # [[Notable NPCs\|Notable NPCs]]
 
