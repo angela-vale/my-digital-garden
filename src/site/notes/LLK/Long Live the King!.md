@@ -58,7 +58,10 @@
 
 [[LLK/Urion\|Urion]], the King, now dead
 [[Vanna\|Vanna]], his heir, now dead
-[[Vilento\|Vilento]], the Court Wizard
+[[LLK/Vilento\|Vilento]], the Court Wizard
+[[LLK/Nisus\|Nisus]], the Steward
+[[LLK/Telegar\|Telegar]], warrior
+
 
 # [[Locations\|Locations]]
 

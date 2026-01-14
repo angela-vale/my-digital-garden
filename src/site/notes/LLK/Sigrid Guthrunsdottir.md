@@ -25,13 +25,13 @@ I am the only sorcerer ever to be admitted to the royal court.
 
 To help my family, I pretended to be a [[LLK/Wizard\|Wizard]] from a young age so I could make a better life for them. Sorcerers don’t get any respect. People think we are all mad. Well, I’m not mad. Sometimes, I hear a voice. It's not very loud, and it doesn't tell me to do anything bad. I'm perfectly fine. And sane.
 
-When I had the chance, I took the exams to become a royal apprentice. I passed and went to court at age 15. I worked quietly, in the background, until I caught the eye of [[Vilento\|Vilento]], the Court Wizard. He saw through my deception at once, but instead of throwing me out, he made me his assistant, maybe to keep an eye on me, maybe because he saw a use for me.
+When I had the chance, I took the exams to become a royal apprentice. I passed and went to court at age 15. I worked quietly, in the background, until I caught the eye of [[LLK/Vilento\|Vilento]], the Court Wizard. He saw through my deception at once, but instead of throwing me out, he made me his assistant, maybe to keep an eye on me, maybe because he saw a use for me.
 
 Before he dies, the King told Vilento he needed and advisor he could trust on the other side. However, when the King died and the sun went dark, Vilento saw an oppurtunity and nominated me as sacrifice in his stead. After all, the Kingdom needs a wise hand to guide the way. I hesitated, but then he said he would take care of my family. How could I say no?
 
 ## Related NPCs
 
-[[Vilento\|Vilento]], Court Wizard
+[[LLK/Vilento\|Vilento]], Court Wizard
 [[Guthrun Helgisdottir\|Guthrun Helgisdottir]], mother (human)
 [[Sylris Fardew\|Sylris Fardew]], my father (high elf), though we haven't seen each other much
 [[LLK/Renur\|Renur]], my familiar in the form of a white arctic fox. 
