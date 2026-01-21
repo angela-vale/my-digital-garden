@@ -41,18 +41,13 @@
 [[LLK/Sorcerer\|Sorcerer]]
 [[LLK/Wizard\|Wizard]]
 
-
 # The Party
 
 [[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]]
 [[LLK/Thallen\|Thallen]]
 [[LLK/Capella\|Capella]]
 [[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]]
-
-
-
-
-
+[[LLK/Mar\|Mar]]
 # [[Notable NPCs\|Notable NPCs]]
 
 
@@ -60,16 +55,21 @@
 [[Vanna\|Vanna]], his heir, now dead
 [[LLK/Vilento\|Vilento]], the Court Wizard
 [[LLK/Nisus\|Nisus]], the Steward
-[[LLK/Telegar\|Telegar]], warrior
+[[LLK/Talagar\|Talagar]], warrior
+[[LLK/Lavinia\|Lavinia]], Cleric for Tau
 
 
 # [[Locations\|Locations]]
 
 # [[Session Logs\|Session Logs]]
 
+[[LLK/Session 1\|Session 1]]
+[[LLK/Session 2\|Session 2]]
+
+
 
 # Meta
 For anything out of character
 [[LLK/Safety\|Safety]]
 
-*Last updated: 2025/12/18*
+*Last updated: 2026/01/21
