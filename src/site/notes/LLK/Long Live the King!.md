@@ -31,7 +31,7 @@
 [[LLK/Feylands\|Feylands]]
 [[LLK/The Cheltrem volcano\|The Cheltrem volcano]]
 [[LLK/Fort Calagal\|Fort Calagal]]
-[[The Underground\|The Underground]]
+
 ## Race Info
 
 [[LLK/Fey\|Fey]]
@@ -74,4 +74,4 @@
 For anything out of character
 [[LLK/Safety\|Safety]]
 
-*Last updated: 2026/01/21
+*Last updated: 2026/02/08
