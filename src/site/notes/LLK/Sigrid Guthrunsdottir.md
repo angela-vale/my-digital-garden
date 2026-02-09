@@ -4,9 +4,6 @@
 
 
 ## Info
-https://cdna.artstation.com/p/assets/images/images/044/764/608/small/jexion-halfelf-wizard-wm.jpg?1648084199
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_-5Hj9zhKt2Cz1LF2sTIuh-iTv0TzTQA1yWmus5DsQ&s=10
 
 Name: Sigrid Guthrunsdottir
 Aka: 
@@ -17,6 +14,7 @@ Age: 27
 Race: [[Half Elf\|Half Elf]] ([[High Elf\|High Elf]])
 Class: [[LLK/Sorcerer\|Sorcerer]], Arcane Heritage
 
+![Pasted image 20260208193607.png](/img/user/Pasted%20image%2020260208193607.png)
 ## One Unique Thing:
 
 I am the only sorcerer ever to be admitted to the royal court.
@@ -34,10 +32,15 @@ Before he dies, the King told Vilento he needed and advisor he could trust on th
 [[LLK/Vilento\|Vilento]], Court Wizard
 [[Guthrun Helgisdottir\|Guthrun Helgisdottir]], mother (human)
 [[Sylris Fardew\|Sylris Fardew]], my father (high elf), though we haven't seen each other much
-[[LLK/Renur\|Renur]], my familiar in the form of a white arctic fox. 
+[[LLK/Ref\|Ref]], my familiar in the form of a white arctic fox. 
+
+Astrid, 17, half-sister, now apprentice to a tailor
+Aud, 15, half-sister
 ## Extended Biography
 
-Sigrid grew up among her mother’s people, the Hirthingi, a northern people who are known as raiders. Guthrun, her mother, was part of these raiding parties when she was young and that is how she met Sylris. The result of their fairly short affair was  Sigrid. 
+Sigrid grew up among her mother’s people, the Hirthingi, a northern people who are known as raiders. Guthrun, her mother, was part of these raiding parties when she was young and that is how she met Sylris. The result of their fairly short affair was Sigrid. 
 
-From a young age, it became clear that Sigrid had been born under the right conditions that gave her magic. It was also clear that it was wild and most likely sorcerery. After an incident when she was 7 that resulted in a storehouse burning down, Sigrid and her mother were encouraged to find a home elsewhere. 
+From a young age, it became clear that Sigrid had been born under the right conditions that gave her magic. It was also clear that it was wild and most likely sorcery. After an incident when she was 7 that resulted in a storehouse burning down, Sigrid and her family were encouraged to find a home elsewhere. 
+
+They moved to a larger settlement, one where they could blend in and Sigrid's magic would draw fewer eyes. It was here where she first presenting herself as a wizard to ensure there would be no more issues.
 

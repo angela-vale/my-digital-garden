@@ -7,7 +7,7 @@
 **Pronouns:** They/them 
 **Age:** 53 
 **Race:** [[Half Elf\|Half Elf]] ([[High Elf\|High Elf]])
-**Class:** [[Paladin\|Paladin]] with cleric training, serving [[Belet Anzu\|Belet Anzu]] 
+**Class:** [[Paladin\|Paladin]] with cleric training, serving [[LLK/Belet Anzu\|Belet Anzu]] 
 
 **One Unique Thing:** I am afflicted with a deadly curse that forces me to consume people’s life energy to survive. If I go without it for too long, I lose control and drain small amounts of energy from everyone around me.
 

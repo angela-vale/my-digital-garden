@@ -31,10 +31,10 @@
 [[LLK/Feylands\|Feylands]]
 [[LLK/The Cheltrem volcano\|The Cheltrem volcano]]
 [[LLK/Fort Calagal\|Fort Calagal]]
-[[LLK/The Underground\|The Underground]]
+[[The Underground\|The Underground]]
 ## Race Info
 
-
+[[LLK/Fey\|Fey]]
 ## Class info
 
 [[Paladin\|Paladin]]
@@ -43,11 +43,11 @@
 
 # The Party
 
-[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]]
+[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]] with [[LLK/Ref\|Ref]]
 [[LLK/Thallen\|Thallen]]
 [[LLK/Capella\|Capella]]
-[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]]
-[[LLK/Mar\|Mar]]
+[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]] with [[LLK/Ard\|Ard]]
+
 # [[Notable NPCs\|Notable NPCs]]
 
 
@@ -65,6 +65,8 @@
 
 [[LLK/Session 1\|Session 1]]
 [[LLK/Session 2\|Session 2]]
+[[LLK/Session 3\|Session 3]]
+[[Session 4\|Session 4]]
 
 
 

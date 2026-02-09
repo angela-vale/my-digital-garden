@@ -3,7 +3,7 @@
 ---
 
 
-[[LLK/Mar\|Mar]] left her father's home with her friend, [[Margo\|Margo]], telling him that she had something she needed to do. Her father said she would be disowned if she left. as if she hadn't heard that before. She arrived in [[Rovanna\|Rovanna]] and went to the temple of [[LLK/Tau\|Tau]].  After consulting with the high priestess, she was escorted to the Palace. Her mission can be best served by joining the sacrifices.
+[[Mar\|Mar]] left her father's home with her friend, [[Margo\|Margo]], telling him that she had something she needed to do. Her father said she would be disowned if she left. as if she hadn't heard that before. She arrived in [[Rovanna\|Rovanna]] and went to the temple of [[LLK/Tau\|Tau]].  After consulting with the high priestess, she was escorted to the Palace. Her mission can be best served by joining the sacrifices.
 
 [[Fen\|Fen]] was found by [[LLK/Talagar\|Talagar]], who called in his life debt to King [[LLK/Urion\|Urion]]. Fen resisted, asking for 24 hours to sort his affairs. Talagar and Fen were adversrial, not helped by Talagar's swagger and superiority and Fen's quiet resistance.
 
@@ -16,7 +16,7 @@ Sigrid recognised Fen's name from the histories of the kingdom, and knows that h
 
 Mar told them that she was from the 'circle part' of Rovanna and had some important reason for being chosen.
 
-Capella wanted to pet that dog ([[Ard\|Ard]]), and Ard encouraged Fen to be nice to Capella. Fen would not est or drink any of the food provided.
+Capella wanted to pet that dog ([[LLK/Ard\|Ard]]), and Ard encouraged Fen to be nice to Capella. Fen would not est or drink any of the food provided.
 
 Sigrid tried to make conversation and give everyone drink.
 

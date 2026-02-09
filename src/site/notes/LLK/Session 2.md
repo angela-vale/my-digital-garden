@@ -6,7 +6,7 @@
 
 [[LLK/Lavinia\|Lavinia]] asked that [[LLK/Capella\|Capella]] make up with [[LLK/Nisus\|Nisus]]. It is an honour to go to the Golden Vault. 
 
-Capella grudgingly went to Nisus and apologised. Happy to have an apology, Nisus invited her and the rest of the Sacrifices to a dinner party (Except [[LLK/Mar\|Mar]], who is off visiting [[Margo\|Margo]] in the city).
+Capella grudgingly went to Nisus and apologised. Happy to have an apology, Nisus invited her and the rest of the Sacrifices to a dinner party (Except [[Mar\|Mar]], who is off visiting [[Margo\|Margo]] in the city).
 
 Dinner conversation was a bit awkward as the party continued to adjust to their new reality. They shared some of their motivations, talked of what might lay in the Golden Vault.
 

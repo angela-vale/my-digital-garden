@@ -9,7 +9,11 @@
 **Race:** Wood Elf 
 **Class:** Ranger 
 
-**One Unique Thing:** Befriended a Fey (Ard) in my youth who now inhabits any animal companion I have (currently a Dire Wolf). We can communicate telepathically.
+**One Unique Thing:** Befriended a Fey ([[LLK/Ard\|Ard]]) in my youth who now inhabits any animal companion I have (currently a Dire Wolf). We can communicate telepathically.
+
+**Some Notes**
+
+- has a bag of shiny things that he takes from the corpses of his enemies
 
 **Biography**
 

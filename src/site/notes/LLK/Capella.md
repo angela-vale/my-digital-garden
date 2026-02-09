@@ -10,6 +10,8 @@
 **Race:** Tiefling 
 **Class:** Bard 
 
+![Pasted image 20260208193533.png](/img/user/Pasted%20image%2020260208193533.png)
+
 **One Unique Thing:** 
 
 A god answers my songs. 
