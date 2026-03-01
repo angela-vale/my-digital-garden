@@ -11,7 +11,7 @@ Before what would have been dawn, the party were escorted to a hill outside the 
 
 There, Vilento gave them each a small vial of poison and they drank.
 
-The world around them seemed to dim, as if hidden by a thick black fog except where a lantern appeared, held by [[Lilal Rami\|Lilal Rami]], their guide to the after life. 
+The world around them seemed to dim, as if hidden by a thick black fog except where a lantern appeared, held by [[Lilal Rammi\|Lilal Rammi]], their guide to the after life. 
 
 While at first, Lila Rami appeared as an elven woman, upon seeing [[LLK/Fenxalim Willowsage\|Fen]], she changed into the form of a young man, a man who could have been Fen's brother.
 
