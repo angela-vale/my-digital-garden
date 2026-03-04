@@ -68,7 +68,7 @@
 [[LLK/Session 3\|Session 3]]
 [[LLK/Session 4\|Session 4]]
 [[LLK/Session 5\|Session 5]]
-[[Session 6\|Session 6]]
+[[LLK/Session 6\|Session 6]]
 
 ## Potential plot threads
 - Ghost in the Great Hall
