@@ -17,9 +17,27 @@
 
 - *an excerpt from the journal of Sigrid Guthrunsdottir, Assistant to Court Wizard, Vilento* 
 
+# The Party
 
+[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]] with [[LLK/Ref\|Ref]]
+[[LLK/Thallen\|Thallen]]
+[[LLK/Capella\|Capella]]
+[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]] with [[LLK/Ard\|Ard]]
+[[LLK/Belnar\|Belnar]]
+
+# [[LLK/Session Logs\|Session Logs]]
+
+[[LLK/Session 1\|Session 1]]
+[[LLK/Session 2\|Session 2]]
+[[LLK/Session 3\|Session 3]]
+[[LLK/Session 4\|Session 4]]
+[[LLK/Session 5\|Session 5]]
+[[LLK/Session 6\|Session 6]]
+[[Session 7\|Session 7]]
+[[Session 8\|Session 8]]
 
 # The World
+[[LLK/Map\|Map]]
 
 *Most people follow a nomadic or semi-nomadic lifestyle, in bands ranging from a dozen to a few hundred people. There are some city-states scattered around, usually built under the patronage of a god, although with the passing centuries most of those patronages have been neglected if not fully abandoned. 
 
@@ -37,16 +55,8 @@
 [[LLK/Fey\|Fey]]
 ## Class info
 
-[[Paladin\|Paladin]]
 [[LLK/Sorcerer\|Sorcerer]]
 [[LLK/Wizard\|Wizard]]
-
-# The Party
-
-[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]] with [[LLK/Ref\|Ref]]
-[[LLK/Thallen\|Thallen]]
-[[LLK/Capella\|Capella]]
-[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]] with [[LLK/Ard\|Ard]]
 
 # [[Notable NPCs\|Notable NPCs]]
 
@@ -61,23 +71,26 @@
 
 # [[Locations\|Locations]]
 
-# [[Session Logs\|Session Logs]]
 
-[[LLK/Session 1\|Session 1]]
-[[LLK/Session 2\|Session 2]]
-[[LLK/Session 3\|Session 3]]
-[[LLK/Session 4\|Session 4]]
-[[LLK/Session 5\|Session 5]]
-[[LLK/Session 6\|Session 6]]
+
 
 ## Potential plot threads
-- Ghost in the Great Hall
+- Ghost in the [[Grave Hall\|Grave Hall]]
 - Bodies from the gods in Haven
+- Meet King Urion
+- Return to Rovana
+- Return to the Feylands
+- The Volcano
+- Thallen's Curse
+- Sigrid's Whisperer
+- [[LLK/The Hirthingi\|The Hirthingi]]
+- 
 
 
 
 # Meta
 For anything out of character
 [[LLK/Safety\|Safety]]
+[[LLK/Survey results\|Survey results]]
 
-*Last updated: 2026/02/08
+*Last updated: 2026/03/19
