@@ -32,3 +32,5 @@ Elin once travelled through these lands. She has been speaking now more than in 
 I’m not mad. She is real. These last few days prove that if nothing else did. I have tried to ignore her for many years, most of my life, but she is actually giving important information now, useful hints to help us survive. I wish Vilento was here. Maybe he could provide some insight. 
 
 Although, Vilento could do nothing for Thallen. Belat Anzu told us that Thallen is cursed. Not the details, of course, because he rarely says more than he must at any given time. I told Thallen that if they wished to share, I would be happy to take a look. After all, whatever this curse is, it clearly means they cannot be near us, and that could be most inconvenient if it were to act up. Given we have been returned only a few days and it has already pushed him away twice, I worry this may cause more trouble for us. 
+
+We travelled another day through the darkness following the river. According to the nomads, we should be another day to the River, and from there, another two or three to the Crossing. 
