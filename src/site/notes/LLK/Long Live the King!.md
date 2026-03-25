@@ -33,8 +33,8 @@
 [[LLK/Session 4\|Session 4]]
 [[LLK/Session 5\|Session 5]]
 [[LLK/Session 6\|Session 6]]
-[[Session 7\|Session 7]]
-[[Session 8\|Session 8]]
+[[LLK/Session 7\|Session 7]]
+[[LLK/Session 8\|Session 8]]
 
 # The World
 [[LLK/Map\|Map]]

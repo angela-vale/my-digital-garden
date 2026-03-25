@@ -3,4 +3,6 @@
 ---
 
 
+Currently erupting, glowing ominously in the far south
+
 The Prison or [[LLK/Maarna\|Maarna]]
