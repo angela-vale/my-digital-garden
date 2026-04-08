@@ -36,6 +36,8 @@
 [[LLK/Session 7\|Session 7]]
 [[LLK/Session 8\|Session 8]]
 
+[[LLK/Session 9\|Session 9]] In which the party is ambushed at night. 
+
 # The World
 [[LLK/Map\|Map]]
 
