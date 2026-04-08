@@ -19,6 +19,6 @@ A scream broke out, and the growls of a beast.Fen and Ard were certainly not tal
 
 This was confirmed when Fen arrived, the other stranger tied up and slung over his shoulder. The one who had been talking fled into the darkness and I held onto Capella tightly so she wouldn’t go after him. 
 
-We returned to the campfire, Fen still hauling his captive. He knew these masks, he said. He had seen them a long time ago. They belonged to the [[White Fox\|White Fox]], the group that tried to assassinate King Urion a decade before. The attack Thallen had thwarted. 
+We returned to the campfire, Fen still hauling his captive. He knew these masks, he said. He had seen them a long time ago. They belonged to the [[Stars Eternal\|Stars Eternal]], the group that tried to assassinate King Urion a decade before. The attack Thallen had thwarted. 
 
 Capella was shocked by the news, and decided it was time to ask a boon of her patron. 
