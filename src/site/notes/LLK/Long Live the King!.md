@@ -27,16 +27,16 @@
 
 # [[LLK/Session Logs\|Session Logs]]
 
-[[LLK/Session 1\|Session 1]]
-[[LLK/Session 2\|Session 2]]
-[[LLK/Session 3\|Session 3]]
-[[LLK/Session 4\|Session 4]]
-[[LLK/Session 5\|Session 5]]
-[[LLK/Session 6\|Session 6]]
-[[LLK/Session 7\|Session 7]]
-[[LLK/Session 8\|Session 8]]
-
+[[LLK/Session 1\|Session 1]] - In which the party learns they are to be sacrificed 
+[[LLK/Session 2\|Session 2]] - In which the party is attacked at a dinner party
+[[LLK/Session 3\|Session 3]] - In which they are sacrificed
+[[LLK/Session 4\|Session 4]] - In which the party fights a demons and learn that all is not right among the gods. 
+[[LLK/Session 5\|Session 5]] - In which the party arrive at the divine vault
+[[LLK/Session 6\|Session 6]] - In which the party is returned to life and dropped in the middle of nowhere
+[[LLK/Session 7\|Session 7]] - In which the party is attacked by Kobolds and a dragon
+[[LLK/Session 8\|Session 8]] - In which the party fail to impress hunters
 [[LLK/Session 9\|Session 9]] In which the party is ambushed at night. 
+[[LLK/Session 10 and 12\|Session 10 and 12]] - In which the party question the prisoner and find some peace.
 
 # The World
 [[LLK/Map\|Map]]
