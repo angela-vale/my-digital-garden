@@ -7,15 +7,15 @@
 
 *Our great King, [[LLK/Urion\|Urion]], who spent so many years on the throne, defeated so many enemies, and brought us peace is dead.*
 
-*Not of old age, nor illness, nor some mortal wound. He died because he tempted fate and tried to save his heir, [[Vanna\|Vanna]] by casting Resurrection. I still question why it was he who had to cast it. He has cast it previously four times, to save lives precious to him or the kingdom.* 
+*[[LLK/Tau\|Tau]], the sun god, took him to the Golden Vault herself and has not returned. Our world is full of darkness.*
 
-*No mortal can cast Resurrection more than four times. Casting it takes a toll on the body, the soul, and to do more is deadly. Still, our glorious King knew that without his heir, his legacy was sure to crumble, so he chose to sacrifice himself for us one more time.*
+*Now, the [[LLK/The Cheltrem volcano\|The Cheltrem volcano]] is erupting and demons wander in the south.* 
 
-*Sadly, it failed. Vanna remains in the Underworld. Worse, when [[LLK/Tau\|Tau]], goddess of the Sun, came to claim his soul and escort him to the Afterlife, and has not returned yet. The sky is dark, we are leaderless, and, even now, I fear the panic is rising. Rovana may not last the coming crisis.*
+*Now, the forest of [[Attan\|Attan]] is dying and the [[Court of the Monarch\|Court of the Monarch]] is corrupted. Strange creatures made of the dead plants wander.*
 
-*And yet, I shall not be here to see it, for I have been granted the honour of serving our King in the Afterlife. In mere days, I will take part in the ceremony. While I do not wish to die, what I dread most is telling our King that his sacrifice was for naught.*
+*Now, the [[LLK/Feylands\|Feylands]] are expanding, stretching further into the land and turning it to chaos.*
 
-- *an excerpt from the journal of Sigrid Guthrunsdottir, Assistant to Court Wizard, Vilento* 
+*And something is going on between the gods themselves...*
 
 # [[LLK/Session Logs\|Session Logs]]
 
@@ -42,6 +42,19 @@
 ### Former Party Member
 [[LLK/Belnar\|Belnar]]
 
+# The King is dead…
+
+*Our great King, [[LLK/Urion\|Urion]], who spent so many years on the throne, defeated so many enemies, and brought us peace is dead.*
+
+*Not of old age, nor illness, nor some mortal wound. He died because he tempted fate and tried to save his heir, [[Vanna\|Vanna]] by casting Resurrection. I still question why it was he who had to cast it. He has cast it previously four times, to save lives precious to him or the kingdom.* 
+
+*No mortal can cast Resurrection more than four times. Casting it takes a toll on the body, the soul, and to do more is deadly. Still, our glorious King knew that without his heir, his legacy was sure to crumble, so he chose to sacrifice himself for us one more time.*
+
+*Sadly, it failed. Vanna remains in the Underworld. Worse, when [[LLK/Tau\|Tau]], goddess of the Sun, came to claim his soul and escort him to the Afterlife, and has not returned yet. The sky is dark, we are leaderless, and, even now, I fear the panic is rising. Rovana may not last the coming crisis.*
+
+*And yet, I shall not be here to see it, for I have been granted the honour of serving our King in the Afterlife. In mere days, I will take part in the ceremony. While I do not wish to die, what I dread most is telling our King that his sacrifice was for naught.*
+
+- *an excerpt from the journal of Sigrid Guthrunsdottir, Assistant to Court Wizard, Vilento* 
 
 # The World
 [[LLK/Map\|Map]]
