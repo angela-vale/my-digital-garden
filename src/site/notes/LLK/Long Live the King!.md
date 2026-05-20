@@ -17,14 +17,6 @@
 
 - *an excerpt from the journal of Sigrid Guthrunsdottir, Assistant to Court Wizard, Vilento* 
 
-# The Party
-
-[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]] with [[LLK/Ref\|Ref]]
-[[LLK/Thallen\|Thallen]]
-[[LLK/Capella\|Capella]]
-[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]] with [[LLK/Ard\|Ard]]
-[[LLK/Belnar\|Belnar]]
-
 # [[LLK/Session Logs\|Session Logs]]
 
 [[LLK/Session 1\|Session 1]] - In which the party learns they are to be sacrificed 
@@ -37,6 +29,19 @@
 [[LLK/Session 8\|Session 8]] - In which the party fail to impress hunters
 [[LLK/Session 9\|Session 9]] In which the party is ambushed at night. 
 [[LLK/Session 10 and 12\|Session 10 and 12]] - In which the party question the prisoner and find some peace.
+[[LLK/Session 13 and 14\|Session 13 and 14]] - In which the party experiences some real shocks
+# The Party
+
+[[LLK/Sigrid Guthrunsdottir\|Sigrid Guthrunsdottir]] with [[LLK/Ref\|Ref]]
+[[LLK/Thallen\|Thallen]]
+[[LLK/Capella\|Capella]]
+[[LLK/Fenxalim Willowsage\|Fenxalim Willowsage]] with [[LLK/Ard\|Ard]]
+[[Berry Boy\|Berry Boy]]
+
+
+### Former Party Member
+[[LLK/Belnar\|Belnar]]
+
 
 # The World
 [[LLK/Map\|Map]]
@@ -51,17 +56,19 @@
 [[LLK/Feylands\|Feylands]]
 [[LLK/The Cheltrem volcano\|The Cheltrem volcano]]
 [[LLK/Fort Calagal\|Fort Calagal]]
-
+[[Fort Sitern\|Fort Sitern]]
+[[Attan\|Attan]]
 ## Race Info
 
 [[LLK/Fey\|Fey]]
+[[Tieflings\|Tieflings]]
 ## Class info
 
 [[LLK/Sorcerer\|Sorcerer]]
 [[LLK/Wizard\|Wizard]]
 
 # [[Notable NPCs\|Notable NPCs]]
-
+### In Rovanna
 
 [[LLK/Urion\|Urion]], the King, now dead
 [[Vanna\|Vanna]], his heir, now dead
@@ -70,6 +77,13 @@
 [[LLK/Talagar\|Talagar]], warrior
 [[LLK/Lavinia\|Lavinia]], Cleric for Tau
 
+### In the Valley
+
+[[Andraste\|Andraste]], a hunter
+[[Ilsevel\|Ilsevel]], an old woman sent by [[Kigal\|Kigal]] to aid the Party
+[[Trista\|Trista]], a contact Fen has made
+[[Maywin\|Maywin]], a bounty hunter and friend of Vanna
+
 
 # [[Locations\|Locations]]
 
@@ -77,7 +91,7 @@
 
 
 ## Potential plot threads
-- Ghost in the [[Grave Hall\|Grave Hall]]
+- Ghost in the [[Great Hall\|Great Hall]]
 - Bodies from the gods in Haven
 - Meet King Urion
 - Return to Rovana
